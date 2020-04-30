@@ -3,7 +3,7 @@ Predictive Analytics for Busines co-created by Alteryx and Tableau
 
 Problem Solving with Advanced Analytics Course
 
-The Problem:
+## The Problem:
 
 The Business Problem You recently started working for a company
 that manufactures and sells high-end home goods. Last year the
