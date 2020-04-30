@@ -1,4 +1,6 @@
-The Business 
+### Project 6: Forecast Video Game Sales
+
+#### The Business Problem 
 
 Problem You recently started working for a company as a
 supply chain analyst that creates and sells video games. Many businesses
