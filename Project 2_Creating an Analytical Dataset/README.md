@@ -1,11 +1,8 @@
-# Predictive-Analytics-for-Business-Nanodegree
-Predictive Analytics for Busines co-created by Alteryx and Tableau
+## Project 2 : Problem Solving with Advanced Analytics Course
 
-Problem Solving with Advanced Analytics Course
+### The Problem:
 
-The Problem:
-
-Part 1
+#### Part 1
 
 Project Overview This project is the first part of a two-part series. In
 the first part, you will blend and format data and deal with outliers.
@@ -24,7 +21,7 @@ and open a 14th store. Your manager has asked you to perform an analysis
 to recommend the city for Pawdacity’s newest store, based on predicted
 yearly sales.
 
-Part 2
+#### Part 2
 
 This project is a continuation of Project 2.1 regarding trying to find
 the best city to expand for Pawdacity's newest pet store.
