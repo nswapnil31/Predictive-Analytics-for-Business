@@ -1,8 +1,8 @@
 # Project 1 : Problem Solving with Advanced Analytics
 
-## The Problem:
+## The Business Problem:
 
-The Business Problem You recently started working for a company
+You recently started working for a company
 that manufactures and sells high-end home goods. Last year the
 company sent out its first print catalog, and is preparing to send
 out this year's catalog in the coming months. The company has 250 new
