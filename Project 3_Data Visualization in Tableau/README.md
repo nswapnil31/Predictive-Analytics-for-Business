@@ -1,4 +1,4 @@
-Project Overview
+### Project Overview
 
 In this project, you'll use Tableau to build dashboards and tell a story
 with data. This is an essential skill as an analyst. You'll be exploring
@@ -13,7 +13,7 @@ you can find it here:
 
 https://www.lendingclub.com/info/download-data.action.
 
-Project Details
+#### Project Details
 
 You're an analyst at Lending Club assigned to analyze loan data. Your
 manager has requested you to investigate the data to answer three main
@@ -27,7 +27,7 @@ time?
 On top of that, your manager has requested that you pick another
 question of your own to explore and report on.
 
-Data 
+#### Data 
 
 The Lending Club data includes three files found at the bottom of
 the page:
