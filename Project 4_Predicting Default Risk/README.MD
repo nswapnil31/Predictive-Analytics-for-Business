@@ -1,4 +1,6 @@
-The Business Problem 
+### Project 4 : Predicting Default Risk
+
+#### The Business Problem 
 
 You work for a small bank and are responsible for
 determining if customers are creditworthy to give a loan to. Your team
