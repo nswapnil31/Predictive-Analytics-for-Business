@@ -1,4 +1,6 @@
-Project Details 
+### Project 7 : Segmentation and Clustering
+
+#### The Business Problem
 
 You work for a retail store chain that only has a
 presence of stores in the United States. The company is thinking of
